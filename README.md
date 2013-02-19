@@ -15,9 +15,11 @@ Usage
 -----
 
 Start server:
+
 	python app.py
 
 and start client:
+
 	python sysmon.py
 
 Open `http://127.0.0.1:9000` (port can be changed in global.conf)
